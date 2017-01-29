@@ -1,3 +1,1 @@
-Strava IBU [Interesting, But Useless]
-
-Strava data, shown interestingly.
+Homepage for Squarish Paper
